@@ -1,0 +1,92 @@
+.FirstSection {
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+}
+
+.LeftSide {
+    width: 50%;
+    margin-top: 100px;
+}
+
+.RightSide {
+    width: 50%;
+}
+
+.LeftSide h1 {
+    margin: 0px;
+}
+
+.LeftSide h2 {
+    margin: 0px;
+    color: rgb(0, 119, 255);
+    font-size: 40px;
+}
+
+.HireButton {
+    color: white;
+    background-color: tomato;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+.image {
+    height: 500px;
+    width: 400px;
+}
+
+.DownlodeButton {
+    color: white;
+    background-color: tomato;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+.ThirdSection {
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgb(90, 245, 245);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.ThirdSection h2 {
+    text-align: center;
+}
+
+.Cards {
+    width: 100%;
+    display: flex;
+}
+
+.card {
+    width: 30%;
+    margin-right: 3.3%;
+    background: white;
+    border-radius: 10px;
+}
+
+.card img {
+    width: 90%;
+    align-items: center;
+    margin: 5%;
+}
+
+.Cardtitle {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+    color: rgb(0, 5, 80);
+}
+
+.CardDescription {
+    font-size: 14px;
+    margin-left: 5px;
+    color: gray;
+}
