@@ -51,7 +51,6 @@
 .ThirdSection {
     margin-left: 100px;
     margin-right: 100px;
-    background-color: rgb(90, 245, 245);
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -68,7 +67,7 @@
 .card {
     width: 30%;
     margin-right: 3.3%;
-    background: white;
+    background-color: rgb(172, 255, 255);
     border-radius: 10px;
 }
 
